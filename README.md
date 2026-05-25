@@ -43,4 +43,4 @@ During this project, we learned about sensor integration, GSM communication, GPS
 The Smart Helmet project helps improve safety for coal mine workers by providing real-time monitoring and emergency alert systems.  
 This system can reduce accidents and improve communication during dangerous situations in mines.
 ## Author
-Srinivas
+S.Srinivas
